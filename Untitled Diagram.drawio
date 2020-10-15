@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T13:35:37.481Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="v5WLg3qzjoaofrp4JzTa" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T13:39:03.972Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="yw9rP13LUclCyWfHe5Sx" version="13.8.0" type="github">
   <diagram id="E9mnhByZpK79OgZdpuxl" name="Page-1">
-    <mxGraphModel dx="1688" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1688" dy="482" grid="1" gridSize="18" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -210,9 +210,9 @@
           <mxGeometry x="310" y="950" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ubDPqs4LphS3bVQGvgHs-314" value="Візуальний перегляд інформації веб-сайту&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="270" width="90" height="50" as="geometry" />
+          <mxGeometry x="-108" y="480" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ubDPqs4LphS3bVQGvgHs-315" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="ubDPqs4LphS3bVQGvgHs-303">
+        <mxCell id="ubDPqs4LphS3bVQGvgHs-315" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontFamily=Times New Roman;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ubDPqs4LphS3bVQGvgHs-303" target="ubDPqs4LphS3bVQGvgHs-314">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="39" y="390" as="sourcePoint" />
             <mxPoint x="39" y="390" as="targetPoint" />
@@ -298,7 +298,7 @@
           <mxGeometry x="30" y="640" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ubDPqs4LphS3bVQGvgHs-338" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="70" y="400" width="30" height="30" as="geometry" />
+          <mxGeometry x="-18" y="445" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ubDPqs4LphS3bVQGvgHs-339" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="414" y="820" width="30" height="30" as="geometry" />
