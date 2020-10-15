@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T13:15:35.449Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="R8FcoQvlr7107exGRuJj" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T13:20:34.311Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="Y9j_fJWRfGX6EB_sXeyP" version="13.8.0" type="github">
   <diagram id="E9mnhByZpK79OgZdpuxl" name="Page-1">
     <mxGraphModel dx="1688" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -206,21 +206,8 @@
         <mxCell id="ubDPqs4LphS3bVQGvgHs-310" value="Видалення товару з корзини" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="500" y="950" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ubDPqs4LphS3bVQGvgHs-311" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontFamily=Times New Roman;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ubDPqs4LphS3bVQGvgHs-310" target="ubDPqs4LphS3bVQGvgHs-309">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="340" y="870" as="sourcePoint" />
-            <mxPoint x="540" y="860" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ubDPqs4LphS3bVQGvgHs-312" value="Зміна кількості товару" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="310" y="950" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ubDPqs4LphS3bVQGvgHs-313" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontFamily=Times New Roman;exitX=0.656;exitY=0.06;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.056;entryY=0.765;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ubDPqs4LphS3bVQGvgHs-312" target="ubDPqs4LphS3bVQGvgHs-309">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="340" y="970" as="sourcePoint" />
-            <mxPoint x="500" y="970" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ubDPqs4LphS3bVQGvgHs-314" value="Візуальний перегляд інформації веб-сайту&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-10" y="270" width="90" height="50" as="geometry" />
@@ -244,6 +231,37 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="240" y="460" as="sourcePoint" />
             <mxPoint x="500" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubDPqs4LphS3bVQGvgHs-319" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontFamily=Times New Roman;entryX=0.022;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ubDPqs4LphS3bVQGvgHs-3" target="ubDPqs4LphS3bVQGvgHs-32">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="570" as="sourcePoint" />
+            <mxPoint x="500" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="500" />
+              <mxPoint x="590" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubDPqs4LphS3bVQGvgHs-320" value="Доставка замовлення" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="440" y="640" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ubDPqs4LphS3bVQGvgHs-321" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="ubDPqs4LphS3bVQGvgHs-3" target="ubDPqs4LphS3bVQGvgHs-320">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="570" as="sourcePoint" />
+            <mxPoint x="500" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubDPqs4LphS3bVQGvgHs-323" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;exitX=0.622;exitY=-0.04;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ubDPqs4LphS3bVQGvgHs-312" target="ubDPqs4LphS3bVQGvgHs-309">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="890" as="sourcePoint" />
+            <mxPoint x="450" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubDPqs4LphS3bVQGvgHs-324" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ubDPqs4LphS3bVQGvgHs-310" target="ubDPqs4LphS3bVQGvgHs-309">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="890" as="sourcePoint" />
+            <mxPoint x="500" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
