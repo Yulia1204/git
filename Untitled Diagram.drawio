@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T21:20:08.432Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="Ra9u5ek1Rq3dVtMjc89r" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-20T21:21:57.776Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="bBjTEmQu42iKp3igHYP8" version="13.8.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2568" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="GCj72UtxaJtxxqsysh7z-21" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="GCj72UtxaJtxxqsysh7z-18">
           <mxGeometry x="55" y="125" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GCj72UtxaJtxxqsysh7z-22" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="GCj72UtxaJtxxqsysh7z-22" value="Результат" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="300" y="40" width="100" height="360" as="geometry" />
         </mxCell>
         <mxCell id="GCj72UtxaJtxxqsysh7z-23" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="GCj72UtxaJtxxqsysh7z-22">
